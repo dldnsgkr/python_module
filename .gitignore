@@ -1,0 +1,12 @@
+# Python 가상 환경
+DbDocumentation/
+venv/
+.env/
+
+# 기타 일반적으로 무시할 파일들
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
